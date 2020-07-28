@@ -1,28 +1,31 @@
-### Hi there 👋
+<samp>
 
-#### I am Daljeet Singh Chhabra
+## Hi there 👋  I am Daljeet Singh Chhabra
 
-While you are reading this, I am probably developing a new project or completing an old one 😜.
+I am developing applications and backend systems using Python for the last three years.
 
-You can find me online at these places 👇
+Recently, I developed a python package "WebDeploy" for automated deployment of Flask/Django applications on an Ubuntu server at ease with the least deployment efforts of the developer.
 
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
-[![Site](https://img.icons8.com/ios-glyphs/50/000000/domain.png)](https://iDaljeetSingh.me)
-[![Twitter](https://img.icons8.com/fluent/50/000000/twitter.png)](https://twitter.com/iDaljeetSingh)
-[![Medium](https://img.icons8.com/ios-filled/50/000000/medium-new.png)](https://medium.com/@iDaljeetSingh)
+I have also developed automation tools for Outlook Email Automation, CSV to SQL, XML parsing, etc. and while you are reading this, I am probably developing a new project or completing an old one 😜.
 
+### Languages I know 📄
 
-<!--
-**idaljeetsingh/idaljeetsingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center"> C | C++ | Java | Javascript | Python | Swift  </p> 
 
-Here are some ideas to get you started:
+### Frameworks I work on 👨‍💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center"> Flask | Django | Angular</p> 
+
+### Fun Fact ⚡
+
+<h4 align="center"> Code never lies; but Comments sometimes do.. </h4> <br>
+
+### Find me online at these places 👇
+
+<p align="center">
+    <a target="_blank"href="https://iDaljeetSingh.me"><img src="https://img.icons8.com/ios-glyphs/50/000000/domain.png" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a target="_blank"href="https://twitter.com/iDaljeetSingh"><img src="https://img.icons8.com/fluent/50/000000/twitter.png" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a target="_blank"href="https://linkedin.com/in/iDaljeetSingh"><img src="https://img.icons8.com/color/50/000000/linkedin.png" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a target="_blank"href="https://medium.com/@iDaljeetSingh"><img src="https://img.icons8.com/ios-filled/50/000000/medium-new.png" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+</samp>
