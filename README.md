@@ -10,7 +10,7 @@ I have also developed automation tools for Outlook Email Automation, CSV to SQL,
 
 ### Languages I know 📄
 
-<p align="center"> C | C++ | Java | Javascript | Python | Swift  </p> 
+<p align="center"> C | C++ | Java | Javascript | Python | Swift | Typescript  </p> 
 
 ### Frameworks I work on 👨‍💻
 
