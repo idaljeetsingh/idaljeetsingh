@@ -4,7 +4,7 @@
 
 I am developing applications and backend systems using Python for the last three years.
 
-Recently, I developed a python package "WebDeploy" for automated deployment of Flask/Django applications on an Ubuntu server at ease with the least deployment efforts of the developer.
+Published a python package "WebDeploy" on PyPi for automated deployment of Flask/Django applications on an Ubuntu server at ease with the least deployment efforts of the developer.
 
 I have also developed automation tools for Outlook Email Automation, CSV to SQL, XML parsing, etc. and while you are reading this, I am probably developing a new project or completing an old one 😜.
 
