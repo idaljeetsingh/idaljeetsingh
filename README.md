@@ -1,8 +1,8 @@
 <samp>
 
-## Hi there 👋  I am Daljeet Singh Chhabra
+## ![Intro](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Hi+there+%F0%9F%91%8B+;I'm+Daljeet+Singh+Chhabra++.+.+.;I'm+a+Full-Stack+Developer;skilled+in+Java+%26+Python;along+with+Angular%2C+React;SQL+%26+NoSQL+databases+.+.+.)
 
-I am a Full Stack Developer skilled in Java, Python, Angular, SQL & NoSQL databases. I like to develop automation scripts/utilities for cumbersome tasks.
+I like to develop automation scripts/utilities for cumbersome tasks.
 
 Published a python package "WebDeploy" on PyPi for automating the deployment of Flask/Django applications on an Ubuntu server at ease with the least deployment efforts of the developer.
 
